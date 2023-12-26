@@ -3,7 +3,7 @@
 
 Welcome to the GitHub Contributions Viewer frontend documentation. This React.js application allows users to input a GitHub username and view the contributions graph of the specified user.
 
-![alt text](https://github.com/shivraj0124/Frontend-Github-Contributions/blob/main/Screenshot%20(762).png)
+![alt text](https://drive.google.com/file/d/19lbX70HxOgkRZ7Vt7-OK9kt603jjcqbu/view?usp=sharing)
 
 ## Prerequisites
 
